@@ -18,6 +18,7 @@ public class DemoArray {
 		boolean c = l.contains("sekhar");
 		System.out.println(c);
 		System.out.println(m);
+		System.out.println("hai");
 	}
 
 };
