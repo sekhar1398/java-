@@ -19,6 +19,7 @@ public class DemoArray {
 		System.out.println(c);
 		System.out.println(m);
 		System.out.println("hai");
+		System.out.println("hai");
 	}
 
 };
